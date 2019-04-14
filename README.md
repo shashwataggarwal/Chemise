@@ -20,7 +20,7 @@ python <location_of_file>/chemiseFirebase.py &
 eg: ``` python /home/pi/chemiseFirebase.py & ```
 
 ### 2. Download the Chemise companion app on your Android Phone
-  Download the [Chemise companion app](https://github.com/Akkk1881/ChemiseApp) on your android smartphone while you want to control via your t-shirt.
+Download the [Chemise companion app](https://github.com/Akkk1881/ChemiseApp) on your android smartphone while you want to control via your t-shirt.
 
 ## Made by Noisy Boys
 
