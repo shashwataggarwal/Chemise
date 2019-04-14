@@ -7,7 +7,7 @@ Chemise - A new way of interacting with your smartphone
 2. Download chemiseFirebase.py to your desired location in your Raspberrypi Zero W.
 3. Make sure your have Wait for Network at Boot setting set as ON on your Raspberrypi Zero W. You can do so by opening the setting pannel in GUI mode (via desktop) or using the terminal (via desktop or SSH)
 ```
-$ sudo rpi-config
+$ sudo raspi-config
 ```
 4. Open terminal on your Raspberyypi Zero W via desktop or SSH
 ```
