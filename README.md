@@ -24,8 +24,11 @@ Download the [Chemise companion app](https://github.com/Akkk1881/ChemiseApp) on 
 
 ## Made by 
 **Noisy Boys**
+
 **Group T-24**
+
 **Website: https://chemise.netlify.com/ **
+
 #### Members:
 
 1. Ayaan Kakkar (2018028)
