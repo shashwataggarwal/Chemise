@@ -13,12 +13,12 @@ i=0
 speed_dial=['KEY_INSERT','KEY_HOME','KEY_PAGEDOWN','KEY_PAGEUP','KEY_DELETE','KEY_END'] #0
 answer_call=['KEY_NUMLOCK','KEY_KPSLASH','KEY_KPASTERISK','KEY_KP7','KEY_KP8','KEY_KP9'] #1
 end_call=['KEY_KP1','KEY_KP2','KEY_KP3','KEY_KP0','KEY_KPDOT'] #2
-play_pause=['KEY_R','KEY_T','KEY_Y','KEY_U','KEY_F','KEY_G','KEY_H','KEY_C','KEY_V','KEY_B','KEY_N'] #3
-next_track=['KEY_O','KEY_P','KEY_LEFTBRACE','KEY_L','KEY_SEMICOLON','KEY_APOSTROPHE','KEY_COMMA','KEY_DOT','KEY_SLASH','KEY_K'] #4
-prev_track=['KEY_TAB','KEY_Q','KEY_W','KEY_CAPSLOCK','KEY_A','KEY_S','KEY_LEFTSHIFT','KEY_Z',] #5
-vol_up=['KEY_F9','KEY_F10','KEY_F11','KEY_F12'] #6
-vol_down=['KEY_F5','KEY_F6','KEY_F7','KEY_F8'] #7
-vol_mute=['KEY_F1','KEY_F2','KEY_F3','KEY_4'] #8
+play_pause=['KEY_T','KEY_Y','KEY_U','KEY_F','KEY_G','KEY_H', 'KEY_J','KEY_V','KEY_B','KEY_N'] #3
+next_track=['KEY_S','KEY_X','KEY_E','KEY_W','KEY_A','KEY_Q','KEY_Z','KEY_LEFTSHIFT','KEY_CAPSLOCK','KEY_TAB'] #4
+prev_track=['KEY_L','KEY_O','KEY_P','KEY_COMMA','KEY_DOT','KEY_SLASH','KEY_SEMICOLON','KEY_APOSTROPHE','KEY_LEFTBRACE'] #5
+vol_up=['KEY_F9','KEY_F10','KEY_F11','KEY_EQUAL'] #6
+vol_down=['KEY_F5','KEY_F6','KEY_F7'] #7
+vol_mute=['KEY_F1','KEY_F2','KEY_F3','KEY_2','KEY_3','KEY_4'] #8
 
 
 for event in dev.read_loop():
